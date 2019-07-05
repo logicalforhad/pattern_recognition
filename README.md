@@ -1,8 +1,12 @@
-Pattern Recognition summer semester 2019
+## Pattern Recognition summer semester 2019
 
-Authors:
+#### Authors:
 
-Selin Sezar
-Iftekhar Ahmed
-SM Farhad Ali
-Hassan Mosharrof
+* ***Selin Sezar***
+* ***Iftekhar Ahmed***
+* ***SM Farhad Ali***
+* ***Hassan Mosharrof***
+
+ *RWTH Aachen University* 
+
+ *Media Informatics*
